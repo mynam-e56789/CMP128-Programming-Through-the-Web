@@ -1,4 +1,4 @@
-let fruits = { "Grapes", "Apples", "Pears", "Oranges"};
+let fruits = [ "Grapes", "Apples", "Pears", "Oranges"];
 let fruit = fruits[0]; // first fruit 
 function logFirstFruit()
 {
