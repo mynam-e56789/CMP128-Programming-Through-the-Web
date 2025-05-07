@@ -1,27 +1,11 @@
-# CMP128-Programming-Through-the-Web
-Exercises 3.3.2025:
+# Sample Snack app
 
-    Modify the Color Scheme:
-        Task: Change the background color, text color, and button styles.
-        Learning Objective: Understanding CSS properties.
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-    Add a New Page:
-        Task: Create a new page and link it to the home page.
-        Learning Objective: Basic HTML structure and linking between pages.
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-    Create a Form:
-        Task: Add a contact form with name, email, and message fields.
-        Learning Objective: HTML forms and basic form handling with JavaScript.
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-    Implement a Feature with JavaScript:
-        Task: Add a button that, when clicked, displays a random motivational quote from an array.
-        Learning Objective: Basic JavaScript programming and DOM manipulation.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-    Responsive Design:
-        Task: Make the website responsive using CSS media queries.
-        Learning Objective: Responsive web design principles.
-
-Hosting
-
-    You can host the website for free using platforms like GitHub Pages, which allows you to publish web pages directly from a GitHub repository.
-
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
